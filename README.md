@@ -13,7 +13,7 @@ https://github.com/STRCWearlab/WIMUSim
 https://github.com/STRCWearlab/PPDA
 
 - **Chapter 6: Evaluating PPDA against STDA for Self-Supervised Contrastive Learning on Wearable IMU Data**  
-https://github.com/STRCWearlab/Contrastive
+https://github.com/STRCWearlab/PPDA_Contrastive
 
 
 
